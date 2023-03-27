@@ -52,7 +52,7 @@
     (property "Value" "SGP30" (at 5.08 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 7.62 -10.16 0)
+    (property "Footprint" "My_Sensor:SGP30" (at 8.89 -10.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 7.62 -10.16 0)
