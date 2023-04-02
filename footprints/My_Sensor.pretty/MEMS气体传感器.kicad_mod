@@ -30,4 +30,9 @@
     (thermal_bridge_angle 45) (tstamp c161fe44-ddab-4d84-9933-003583621111))
   (pad "4" smd rect (at 1.25 -1.25 180) (size 1.5 1.5) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp e22e7844-72fb-48e8-ab85-244d4e868bc7))
+  (model "D:/Temp/User Library-AHT10.STEP"
+    (offset (xyz -2 2.5 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
